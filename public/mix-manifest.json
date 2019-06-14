@@ -1,0 +1,8 @@
+{
+    "/js/backoffice/backoffice.js": "/js/backoffice/backoffice.js",
+    "/js/customers/customers.js": "/js/customers/customers.js",
+    "/js/backoffice/manifest.js": "/js/backoffice/manifest.js",
+    "/js/backoffice/vendor.js": "/js/backoffice/vendor.js",
+    "/js/customers/manifest.js": "/js/customers/manifest.js",
+    "/js/customers/vendor.js": "/js/customers/vendor.js"
+}
